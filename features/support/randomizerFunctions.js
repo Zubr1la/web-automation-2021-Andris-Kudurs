@@ -22,7 +22,7 @@ function generateData() {
     userName2 = generateText('User2_',8)
 
     user1SentMessage = generateText('User1 message - ', 16)
-    user2SentMessage = generateText('User1 message - ', 16)
+    user2SentMessage = generateText('User2 message - ', 16)
 
     const generatedData = {
         userName1: userName1,
